@@ -1,10 +1,10 @@
 package javaexamples;
-
+// Created by himanshu_//
 public class ArrayMarksRanks {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int mrk[]= {100,88,89,80,90,95};
+		int mrk[]= {85,55,99,48,59,72};
 		//An array mrk with all marks which shuffled.
 		int rnk[]= {1,2,3,4,5,6};
 		//An array rnk with ranks assigned in order.

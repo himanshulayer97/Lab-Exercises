@@ -4,7 +4,7 @@ public class CarModel {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		enum car{contessa(1984),ferrari(2021),Bugatti(2022);
+		enum car{Maruthi(1994),tata(2002),Audi(2009);
 			//Creating an enum for creating constant values
 			// and giving the enum name as car.
 			// inside which we have car name and car model year.
